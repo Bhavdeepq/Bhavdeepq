@@ -15,6 +15,7 @@ I am Bhavdeep Singh , a B.Tech Computer Science (AI & ML) student passionate abo
 ---
 [![](https://komarev.com/ghpvc/?username=Bhavdeepq&icon=0&color=0)](https://visitcount.itsvg.in)
 
+Hacktoberfest  Badges
 [![An image of @bhavdeepq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavdeepq)](https://holopin.io/@bhavdeepq)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
